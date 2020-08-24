@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Personal Profile</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+   
+</head>
 
-You can use the [editor on GitHub](https://github.com/Biyyz60/biyyz60cool/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>My Personal Profile</h1>
+  <p>Nice to meet you! :)</p>
+</div>
 
-### Markdown
+<div class="container" >
+    <div class="row">
+        <div class="col-sm-4">
+            <h2>Basic Information</h2>
+            <p>Yifan Zha</p>
+            <p>20 years old</p>
+            <p>Female</p>
+        </div>
+        <div class="col-sm-4">
+            <h2>Experience</h2>
+            <p>Year2 student at the Univercity of Nottingham Ningbo China</p>
+            <p>2019 Staff of Yonung Volunteer Association and Finance Club</p>
+            <p>Intern for Admissions and Career Development Office</p>
+        </div>    
+        <div class="col-sm-4">
+            <h2>Interests</h2>
+            <p>Photographing and Making videos</p>
+            <p>Reading and Copmmunicating</p>
+            <p>Music and Bands</p>
+        </div>        
+    </div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Biyyz60/biyyz60cool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
+ 
